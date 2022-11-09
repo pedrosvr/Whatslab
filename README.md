@@ -7,3 +7,5 @@
 [ 🔗 Clique aqui para acessar](https://whatslabe-puce.vercel.app/)
 
 ## 🛠️ Tecnologias
+- STYLED-COMPONENTS
+- REACTJS
