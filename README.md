@@ -7,6 +7,6 @@
 [ 🔗 Clique aqui para acessar](https://whatslabe-puce.vercel.app/)
 
 ## 🛠️ Tecnologias
-- Styled-components
 - Reactjs
+- Styled-components
 - Git e Github
