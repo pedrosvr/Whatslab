@@ -9,4 +9,3 @@
 ## 🛠️ Tecnologias
 - Reactjs
 - Styled-components
-- Git e Github
